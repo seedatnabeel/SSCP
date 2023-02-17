@@ -1,6 +1,6 @@
 # SSCP:  Improving Adaptive Conformal Prediction Using Self-supervised Learning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2210.13043-b31b1b.svg)](TBD)
+[![arXiv](https://img.shields.io/badge/arXiv-TBC-b31b1b.svg)](TBD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/seedatnabeel/SSCP/blob/main/LICENSE)
 
 ![image](overview.png "Overview of SSCP")
@@ -37,12 +37,12 @@ Outputs from scripts can be logged to [Weights and Biases - wandb](https://wandb
 
 ![image](method.png "How SSCP works")
 
-To get started with SSCP one can make use of the scripts which run the main Conformalized Residual Fitting (CRF) and Conformalized Quantile Regression (CQR) experiments or the notebooks which have the synthetic and insights experiments
+To get started with SSCP one can make use of the scripts which run the main Conformalized Residual Fitting (CRF) and Conformalized Quantile Regression (CQR) experiments or the notebooks which have the synthetic and later insights experiments
 
 ### Scripts
 To run the CFR and CQR experiments for both labeled and unlabeled one can run the bash scripts found in the scripts folder. For example:
 ```shell
- bash labeled_crf.sh
+ bash labeled_cfr.sh
  ```
 
 ### Notebooks
@@ -54,5 +54,12 @@ To run the synthetic experiments and the insights experiments one can run any of
 If you use this code, please cite the associated paper:
 
 ```
-Coming Soon
+@inproceedings{seedat2023sscp,
+  title={Improving Adaptive Conformal Prediction Using Self-supervised Learning},
+  author={Seedat, Nabeel and Jeffares, Alan and Imrie, Fergus and van der Schaar, Mihaela},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  year={2023},
+  organization={PMLR}
+}
+
 ```
