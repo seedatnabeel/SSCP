@@ -7,13 +7,13 @@
 
 This repository contains the implementation of SSCP, from the paper "Improving Adaptive Conformal Prediction Using Self-supervised Learning"
 
-SSCP illustrates the utility of using the signal from self-supervision to improve the adaptiveness of conformal prediction. 
+SSCP illustrates the utility of using the signal from self-supervision to improve the adaptiveness of conformal prediction.
 
 For more details, please read our [AISTATS 2023 paper](Link coming soon): *Improving Adaptive Conformal Prediction Using Self-supervised Learning*.
 
 ## Installation
 1. Clone the repository
-2. Create a new virtual environment with Python 3.7. e.g:
+2. Create a new virtual environment with Python 3.8. e.g:
 ```shell
     virtualenv sscp_env
 ```

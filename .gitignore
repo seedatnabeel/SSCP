@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SSCP specific
+datasets/wandb/
+dists/*
+figures/*
+scripts/wandb/
