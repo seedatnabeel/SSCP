@@ -1,6 +1,6 @@
 # SSCP:  Improving Adaptive Conformal Prediction Using Self-supervised Learning
 
-[![arXiv](https://img.shields.io/badge/arXiv-TBC-b31b1b.svg)](TBD)
+[![arXiv](https://img.shields.io/badge/arXiv-2302.12238-b31b1b.svg)](https://arxiv.org/abs/2302.12238)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/seedatnabeel/SSCP/blob/main/LICENSE)
 
 ![image](overview.png "Overview of SSCP")
@@ -9,7 +9,7 @@ This repository contains the implementation of SSCP, from the paper "Improving A
 
 SSCP illustrates the utility of using the signal from self-supervision to improve the adaptiveness of conformal prediction.
 
-For more details, please read our [AISTATS 2023 paper](Link coming soon): *Improving Adaptive Conformal Prediction Using Self-supervised Learning*.
+For more details, please read our [AISTATS 2023 paper](https://arxiv.org/abs/2302.12238): *Improving Adaptive Conformal Prediction Using Self-supervised Learning*.
 
 ## Installation
 1. Clone the repository
